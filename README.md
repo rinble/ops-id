@@ -1,2 +1,2 @@
 # ops-id
-Public auth info for Rinble staff
+Public keys for Rinble DevOps
